@@ -2,3 +2,4 @@
 
 # 1. Counting Numbers
 # 2. Simple Calculator
+# 3. Cashier 
